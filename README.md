@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a developer looking to spark joy in the things that I create  *:･ﾟ✧*:･ﾟ✧
+I'm a developer with a passion for creating *:･ﾟ✧*:･ﾟ✧
+🌱 [personal web](https://mjlee3w.github.io)
