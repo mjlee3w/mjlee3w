@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a developer with a passion for creating *:･ﾟ✧*:･ﾟ✧ <br />
-<img src = "https://github.com/mjlee3w/mjlee3w/blob/main/panko.png" width = "50">
+<img src = "https://github.com/mjlee3w/mjlee3w/blob/main/panko.png" width = "250"> <br />
 🌱 [personal web](https://mjlee3w.github.io)
