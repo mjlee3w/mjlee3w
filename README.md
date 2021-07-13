@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a developer with a passion for creating *:･ﾟ✧*:･ﾟ✧ <br />
+![](panko.png)
 🌱 [personal web](https://mjlee3w.github.io)
